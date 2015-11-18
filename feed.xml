@@ -3,11 +3,11 @@
   <channel>
     <title>Grimoire</title>
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
-    <link>http://ephe.github.io/grimoire/</link>
-    <atom:link href="http://ephe.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Nov 2015 21:41:16 -0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2015 21:41:16 -0800</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://detharonil.github.io/grimoire/</link>
+    <atom:link href="http://detharonil.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 18 Nov 2015 14:31:23 -0500</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2015 14:31:23 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Warding Wind</title>
@@ -33,9 +33,9 @@
   &lt;li&gt;It hedges out vapor, gas, and fog that can be dispersed by strong wind.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 31 Aug 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/warding-wind</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/warding-wind</guid>
+        <pubDate>Mon, 31 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/warding-wind</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/warding-wind</guid>
         
         <category>bard</category>
         
@@ -66,9 +66,9 @@
 
 &lt;p&gt;The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).&lt;/p&gt;
 </description>
-        <pubDate>Mon, 31 Aug 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/thunderclap</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/thunderclap</guid>
+        <pubDate>Mon, 31 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/thunderclap</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/thunderclap</guid>
         
         <category>bard</category>
         
@@ -101,9 +101,9 @@
 
 &lt;p&gt;You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell’s duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early&lt;/p&gt;
 </description>
-        <pubDate>Mon, 31 Aug 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/skywrite</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/skywrite</guid>
+        <pubDate>Mon, 31 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/skywrite</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/skywrite</guid>
         
         <category>bard</category>
         
@@ -136,9 +136,9 @@
 
 &lt;p&gt;&lt;strong&gt;Smoke.&lt;/strong&gt; Thick black smoke spreads out from the target in a 20-foot radius, moving around corners. The area of the smoke is heavily obscured. The smoke persists for 1 minute or until a strong wind disperses it.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 31 Aug 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/pyrotechnics</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/pyrotechnics</guid>
+        <pubDate>Mon, 31 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/pyrotechnics</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/pyrotechnics</guid>
         
         <category>bard</category>
         
@@ -169,9 +169,9 @@
 
 &lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 31 Aug 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/earth-tremor</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/earth-tremor</guid>
+        <pubDate>Mon, 31 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/earth-tremor</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/earth-tremor</guid>
         
         <category>bard</category>
         
@@ -204,9 +204,9 @@
 
 &lt;p&gt;An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/zone-of-truth</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/zone-of-truth</guid>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/zone-of-truth</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/zone-of-truth</guid>
         
         <category>bard</category>
         
@@ -237,9 +237,9 @@
 
 &lt;p&gt;You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn’t dedicated to your deity, the spell has no effect.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/word-of-recall</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/word-of-recall</guid>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/word-of-recall</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/word-of-recall</guid>
         
         <category>cleric</category>
         
@@ -268,9 +268,9 @@
 
 &lt;p&gt;The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can’t pass through it.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/wind-wall</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/wind-wall</guid>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/wind-wall</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/wind-wall</guid>
         
         <category>druid</category>
         
@@ -299,9 +299,9 @@
 
 &lt;p&gt;If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can’t land after 1 minute, the creature falls the remaining distance.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/wind-walk</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/wind-walk</guid>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/wind-walk</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/wind-walk</guid>
         
         <category>druid</category>
         
@@ -334,9 +334,9 @@
 
 &lt;p&gt;The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://ephe.github.io/grimoire/spells/web</link>
-        <guid isPermaLink="true">http://ephe.github.io/grimoire/spells/web</guid>
+        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/web</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/web</guid>
         
         <category>sorcerer</category>
         

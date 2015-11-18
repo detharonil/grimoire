@@ -148,7 +148,7 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 4px solid #771900;
+  border-top: 4px solid #781900;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   position: relative; }
@@ -281,7 +281,7 @@ pre {
   line-height: 1.5;
   width: 33%;
   max-width: 400px;
-  border: 1px solid #771900;
+  border: 1px solid #781900;
   border-radius: 4px;
   margin-left: 8px; }
 
