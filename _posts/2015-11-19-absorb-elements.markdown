@@ -5,7 +5,7 @@ date:   2015-11-19
 tags: [druid, ranger, wizard, level1]
 ---
 
-**1st level abjuration**
+**1st-level abjuration**
 
 **Casting Time**: 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage
 

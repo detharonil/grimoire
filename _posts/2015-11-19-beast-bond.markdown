@@ -5,7 +5,7 @@ date:   2015-11-19
 tags: [druid, ranger, level1]
 ---
 
-**1st level divination**
+**1st-level divination**
 
 **Casting Time**: 1 action
 

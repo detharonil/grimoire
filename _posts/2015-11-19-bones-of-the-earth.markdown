@@ -5,7 +5,7 @@ date:   2015-11-19
 tags: [druid, level6]
 ---
 
-**6th level transmutation**
+**6th-level transmutation**
 
 **Casting Time**: 1 action
 

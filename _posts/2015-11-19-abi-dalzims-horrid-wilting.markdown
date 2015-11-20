@@ -5,7 +5,7 @@ date:   2015-11-19
 tags: [sorcerer, wizard, level8]
 ---
 
-**8th level necromancy**
+**8th-level necromancy**
 
 **Casting Time**: 1 action
 

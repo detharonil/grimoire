@@ -5,7 +5,7 @@ date:   2015-11-19
 tags: [sorcerer, wizard, level2]
 ---
 
-**2nd level evocation**
+**2nd-level evocation**
 
 **Casting Time**: 1 action
 
