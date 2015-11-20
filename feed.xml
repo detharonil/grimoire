@@ -5,9 +5,104 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://detharonil.github.io/grimoire/</link>
     <atom:link href="http://detharonil.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 20 Nov 2015 17:19:47 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2015 17:19:47 -0500</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2015 18:30:59 -0500</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2015 18:30:59 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Erupting Earth</title>
+        <description>&lt;p&gt;&lt;strong&gt;3rd-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 120 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a piece of obsidian)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared away. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d12 for each slot level above 2nd.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/erupting-earth</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/erupting-earth</guid>
+        
+        <category>class(es)</category>
+        
+        <category>level3</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Elemental Bane</title>
+        <description>&lt;p&gt;&lt;strong&gt;4th-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;Choose one creature you see within range, and choose one of the following damage types: acid, cold, fire, lightning, or thunder. The target must succeed on a Constitution saving throw or be affected by the spell for its duration. The first time each turn the affected target takes damage of the chosen type, the target takes an extra 2d6 damage of that type. Moreover, the target loses any resistance to that damage type until the spell ends.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/elemental-bane</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/elemental-bane</guid>
+        
+        <category>druid</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level4</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Earthbind</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 300 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/earthbind</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/earthbind</guid>
+        
+        <category>druid</category>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level2</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
     
       <item>
         <title>Dust Devil</title>
@@ -245,99 +340,6 @@
         <category>ranger</category>
         
         <category>level1</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Aganazzar&#39;s Scorcher</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level evocation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a red dragon’s scale)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
-
-&lt;p&gt;A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/aganazzars-scorcher</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/aganazzars-scorcher</guid>
-        
-        <category>sorcerer</category>
-        
-        <category>wizard</category>
-        
-        <category>level2</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Absorb Elements</title>
-        <description>&lt;p&gt;&lt;strong&gt;1st-level abjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: self&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 round&lt;/p&gt;
-
-&lt;p&gt;The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/absorb-elements</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/absorb-elements</guid>
-        
-        <category>druid</category>
-        
-        <category>ranger</category>
-        
-        <category>wizard</category>
-        
-        <category>level1</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Abi-Dalzim&#39;s Horrid Wilting</title>
-        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
-
-&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 10d8 necrotic damage on a failed save, or half as much damage on a successful one.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/abi-dalzims-horrid-wilting</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/abi-dalzims-horrid-wilting</guid>
-        
-        <category>sorcerer</category>
-        
-        <category>wizard</category>
-        
-        <category>level8</category>
         
         
         <category>spells</category>
