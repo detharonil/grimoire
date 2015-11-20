@@ -5,13 +5,13 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://detharonil.github.io/grimoire/</link>
     <atom:link href="http://detharonil.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 19 Nov 2015 21:31:22 -0500</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2015 21:31:22 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2015 21:38:31 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2015 21:38:31 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Bones of the Earth</title>
-        <description>&lt;p&gt;&lt;strong&gt;6th level transmutation&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;6th-level transmutation&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
@@ -44,7 +44,7 @@
     
       <item>
         <title>Beast Bond</title>
-        <description>&lt;p&gt;&lt;strong&gt;1st level divination&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;1st-level divination&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
@@ -73,7 +73,7 @@
     
       <item>
         <title>Aganazzar&#39;s Scorcher</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd level evocation&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level evocation&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
@@ -104,7 +104,7 @@
     
       <item>
         <title>Absorb Elements</title>
-        <description>&lt;p&gt;&lt;strong&gt;1st level abjuration&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;1st-level abjuration&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage&lt;/p&gt;
 
@@ -137,7 +137,7 @@
     
       <item>
         <title>Abi-Dalzim&#39;s Horrid Wilting</title>
-        <description>&lt;p&gt;&lt;strong&gt;8th level necromancy&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;8th-level necromancy&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
 
