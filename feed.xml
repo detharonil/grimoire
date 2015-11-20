@@ -5,9 +5,46 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://detharonil.github.io/grimoire/</link>
     <atom:link href="http://detharonil.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 20 Nov 2015 16:52:12 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2015 16:52:12 -0500</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2015 17:19:47 -0500</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2015 17:19:47 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Dust Devil</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a pinch of dust)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell’s duration.&lt;/p&gt;
+
+&lt;p&gt;Any creature that ends its turn within 5 feet of the dust devil must make a Strength saving throw. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away. On a successful save, the creature takes half as much damage and isn’t pushed.&lt;/p&gt;
+
+&lt;p&gt;As a bonus action, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or small gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures the area.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/dust-devil</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/dust-devil</guid>
+        
+        <category>druid</category>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level2</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
     
       <item>
         <title>Create Bonfire</title>
@@ -301,47 +338,6 @@
         <category>wizard</category>
         
         <category>level8</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Warding Wind</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd level evocation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 10 minutes&lt;/p&gt;
-
-&lt;p&gt;A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration.&lt;/p&gt;
-
-&lt;p&gt;The wind has the following effects:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It deafens you and other creatures in its area.&lt;/li&gt;
-  &lt;li&gt;It extinguishes unprotected flames in its area that are torch-sized or smaller.&lt;/li&gt;
-  &lt;li&gt;The area is difficult terrain for creatures other than you.&lt;/li&gt;
-  &lt;li&gt;The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.&lt;/li&gt;
-  &lt;li&gt;It hedges out vapor, gas, and fog that can be dispersed by strong wind.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 31 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/warding-wind</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/warding-wind</guid>
-        
-        <category>bard</category>
-        
-        <category>druid</category>
-        
-        <category>sorcerer</category>
-        
-        <category>level2</category>
         
         
         <category>spells</category>
