@@ -5,9 +5,38 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://detharonil.github.io/grimoire/</link>
     <atom:link href="http://detharonil.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 18 Nov 2015 16:15:35 -0500</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2015 16:15:35 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2015 20:25:39 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2015 20:25:39 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Abi-Dalzim&#39;s Horrid Wilting</title>
+        <description>&lt;p&gt;&lt;strong&gt;8th level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 150 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of sponge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren’t affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 10d8 necrotic damage on a failed save, or half as much damage on a successful one.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/abi-dalzims-horrid-wilting</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/abi-dalzims-horrid-wilting</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level8</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
     
       <item>
         <title>Warding Wind</title>
@@ -306,43 +335,6 @@
         <category>druid</category>
         
         <category>level6</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Web</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level conjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of spiderweb)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
-
-&lt;p&gt;You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.&lt;/p&gt;
-
-&lt;p&gt;If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.&lt;/p&gt;
-
-&lt;p&gt;Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free.&lt;/p&gt;
-
-&lt;p&gt;A creature restrained by the webs can use its action to make a Strength cheek against your spell save DC. If it suceeeds, it is no longer restrained.&lt;/p&gt;
-
-&lt;p&gt;The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/web</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/web</guid>
-        
-        <category>sorcerer</category>
-        
-        <category>wizard</category>
-        
-        <category>level2</category>
         
         
         <category>spells</category>
