@@ -5,9 +5,135 @@
     <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
     <link>http://detharonil.github.io/grimoire/</link>
     <atom:link href="http://detharonil.github.io/grimoire/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 19 Nov 2015 20:43:24 -0500</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2015 20:43:24 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2015 21:31:22 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2015 21:31:22 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Bones of the Earth</title>
+        <description>&lt;p&gt;&lt;strong&gt;6th level transmutation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 120 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target ground under a creature if that creature is Medium or smaller. Each pillar has AC5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius. The rubble lasts until cleared.&lt;/p&gt;
+
+&lt;p&gt;If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.&lt;/p&gt;
+
+&lt;p&gt;If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature’s choice) against the spell’s saving throw DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/bones-of-the-earth</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/bones-of-the-earth</guid>
+        
+        <category>druid</category>
+        
+        <category>level6</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Beast Bond</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st level divination&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a bit of fur wrapped in a cloth)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 10 minutes&lt;/p&gt;
+
+&lt;p&gt;You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage against any creature within 5 feet of you that you can see.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/beast-bond</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/beast-bond</guid>
+        
+        <category>druid</category>
+        
+        <category>ranger</category>
+        
+        <category>level1</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Aganazzar&#39;s Scorcher</title>
+        <description>&lt;p&gt;&lt;strong&gt;2nd level evocation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a red dragon’s scale)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
+
+&lt;p&gt;A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/aganazzars-scorcher</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/aganazzars-scorcher</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>wizard</category>
+        
+        <category>level2</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Absorb Elements</title>
+        <description>&lt;p&gt;&lt;strong&gt;1st level abjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: S&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 round&lt;/p&gt;
+
+&lt;p&gt;The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://detharonil.github.io/grimoire/spells/absorb-elements</link>
+        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/absorb-elements</guid>
+        
+        <category>druid</category>
+        
+        <category>ranger</category>
+        
+        <category>wizard</category>
+        
+        <category>level1</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
     
       <item>
         <title>Abi-Dalzim&#39;s Horrid Wilting</title>
@@ -211,130 +337,6 @@
         <category>wizard</category>
         
         <category>level1</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Zone of Truth</title>
-        <description>&lt;p&gt;&lt;strong&gt;2nd-level enchantment&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 60 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 10 minutes&lt;/p&gt;
-
-&lt;p&gt;You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. you know whether each creature succeeds or fails on its saving throw.&lt;/p&gt;
-
-&lt;p&gt;An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/zone-of-truth</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/zone-of-truth</guid>
-        
-        <category>bard</category>
-        
-        <category>cleric</category>
-        
-        <category>paladin</category>
-        
-        <category>level2</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Word of Recall</title>
-        <description>&lt;p&gt;&lt;strong&gt;6th-level conjuration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 5 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Instantaneous&lt;/p&gt;
-
-&lt;p&gt;You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.&lt;/p&gt;
-
-&lt;p&gt;You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn’t dedicated to your deity, the spell has no effect.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/word-of-recall</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/word-of-recall</guid>
-        
-        <category>cleric</category>
-        
-        <category>level6</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Wind Wall</title>
-        <description>&lt;p&gt;&lt;strong&gt;3rd-level evocation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 120 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a tiny fan and a feather of exotic origin)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
-
-&lt;p&gt;A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.&lt;/p&gt;
-
-&lt;p&gt;When the wall appears, each creature within its area must make a Strength saving throw. A creature takes 3d8 bludgeoning damage on a failed save, or half as much damage on a successful one.&lt;/p&gt;
-
-&lt;p&gt;The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can’t pass through it.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/wind-wall</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/wind-wall</guid>
-        
-        <category>druid</category>
-        
-        <category>ranger</category>
-        
-        <category>level3</category>
-        
-        
-        <category>spells</category>
-        
-      </item>
-    
-      <item>
-        <title>Wind Walk</title>
-        <description>&lt;p&gt;&lt;strong&gt;6th-level transmutation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 minute&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 30 feet&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (fire and holy water)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 8 hours&lt;/p&gt;
-
-&lt;p&gt;You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nonmagical weapons. The only actions a creature can take in this form are the Dash action or to revert to its normal form. Reverting takes 1 minute, during which time a creature is incapacitated and can’t move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation. &lt;/p&gt;
-
-&lt;p&gt;If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can’t land after 1 minute, the creature falls the remaining distance.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://detharonil.github.io/grimoire/spells/wind-walk</link>
-        <guid isPermaLink="true">http://detharonil.github.io/grimoire/spells/wind-walk</guid>
-        
-        <category>druid</category>
-        
-        <category>level6</category>
         
         
         <category>spells</category>
