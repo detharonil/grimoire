@@ -1,5 +1,5 @@
 .DS_Store
 _site/
 _drafts/
-grimoire.sublime*
 .sass-cache/
+_posts/spell.template
