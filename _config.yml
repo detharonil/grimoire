@@ -8,7 +8,7 @@ baseurl: "/grimoire" # the subpath of your site, e.g. /blog/
 url: "http://detharonil.github.io" # the base hostname & protocol for your site
 source-url: "https://github.com/detharonil/grimoire/"
 permalink: "/:categories/:title"
-exclude: ['LICENSE', 'README.md', '_posts/spell.template']
+exclude: ['LICENSE', 'README.md', 'Gemfile', 'Gemfile.lock', '_posts/spell.template']
 
 # Build settings
 markdown: kramdown
