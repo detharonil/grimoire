@@ -368,6 +368,9 @@ dl.tag-list {
       .post-content h4 {
         font-size: 18px; } }
 
+.rss-subscribe {
+  text-align: right; }
+
 /**
  * Tables
  */
