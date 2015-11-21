@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Control flames"
+title:  "Control Flames"
 date:   2015-11-20
 tags: [druid, sorcerer, wizard, cantrip]
 ---
