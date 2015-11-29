@@ -2,6 +2,7 @@
 title: "Grimoire"
 # This is still Saph's baby.  I'm just impatient.
 author: "Saph"
+email: "detharonil@users.noreply.github.com"
 description:
   "A searchable D&amp;D 5e spell list, sorted by class and level."
 baseurl: "/grimoire" # the subpath of your site, e.g. /blog/
