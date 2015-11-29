@@ -2,7 +2,7 @@
 layout: post
 title:  "Erupting Earth"
 date:   2015-11-20
-tags: [class(es), level3]
+tags: [druid, sorcerer, wizard, level3]
 ---
 
 **3rd-level transmutation**
