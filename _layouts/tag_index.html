@@ -9,8 +9,7 @@
 		<p id="spellSearch">Search by name: <input type="search" id="jetsSearch"></p>
 		<dl class="tag-list">
 			<dt>Spell tier:</dt>
-{% for level in site.data.levels %}
-			<dd>
+{% for level in site.data.levels %}			<dd>
 				<a href="#{{level.tag}}">{{level.name}}</a>
 			</dd> {% endfor %}
 		</dl>
@@ -18,9 +17,7 @@
 		<a id="{{level.tag}}"></a>
 		<h3>{{level.title}}</h3>
 {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
-{% for post in post_list %}
-{% for tag in post.tags %}
-{% if tag == page.tag %}
+{% for post in post_list %}{% for tag in post.tags %}{% if tag == page.tag %}
 		<ul class="post-list jetsContent">
 			<li>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
