@@ -17,8 +17,7 @@
 {% for level in site.data.levels %}
 		<a id="{{level.tag}}"></a>
 		<h3>{{level.title}}</h3>
-{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
-{% for post in post_list %}{% for tag in post.tags %}{% if tag == page.tag %}
+{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}{% for post in post_list %}{% for tag in post.tags %}{% if tag == page.tag %}
 		<ul class="post-list jetsContent">
 			<li>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
