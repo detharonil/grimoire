@@ -9,7 +9,8 @@
 		<p id="spellSearch">Search by name: <input type="search" id="jetsSearch"></p>
 		<dl class="tag-list">
 			<dt>Spell tier:</dt>
-{% for level in site.data.levels %}			<dd>
+{% for level in site.data.levels %}
+			<dd>
 				<a href="#{{level.tag}}">{{level.name}}</a>
 			</dd> {% endfor %}
 		</dl>
