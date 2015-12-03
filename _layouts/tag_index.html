@@ -17,12 +17,12 @@
 {% for level in site.data.levels %}
 		<a id="{{level.tag}}"></a>
 		<h3>{{level.title}}</h3>
-{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}{% for post in post_list %}{% for tag in post.tags %}{% if tag == page.tag %}
-		<ul class="post-list jetsContent">
+{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}{% for post in post_list %}
+		<ul class="post-list jetsContent">{% for tag in post.tags %}{% if tag == page.tag %}
 			<li>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-			</li>
-		</ul> {% endif %} {% endfor %} {% endfor %}
+			</li> {% endif %} {% endfor %}
+		</ul> {% endfor %}
 		<a class="post-meta" href="#top">Back to top &#8593;</a> {% endfor %}
 	</div>
 </div>
