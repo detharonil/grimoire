@@ -5,7 +5,8 @@ date:   2014-08-24
 tags: [warlock, level1]
 ---
 
-*1st-level abjuration*  
+_1st-level abjuration_
+
 **Casting Time**: 1 action  
 **Range**: Self  
 **Components**: V, S, M (a cup of water)  

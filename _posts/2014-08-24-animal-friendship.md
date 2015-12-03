@@ -5,7 +5,8 @@ date:   2014-08-24
 tags: [bard, druid, ranger, level1]
 ---
 
-*1st-level enchantment*  
+_1st-level enchantment_
+
 **Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S, M (a morsel of food)  
