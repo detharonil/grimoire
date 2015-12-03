@@ -2,7 +2,7 @@
 layout: post
 title:  "Control Flames"
 date:   2015-11-20
-tags: [druid, sorcerer, wizard, cantrip]
+tags: [druid, sorcerer, wizard, level0]
 ---
 
 **Transmutation cantrip**

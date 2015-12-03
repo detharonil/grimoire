@@ -2,7 +2,7 @@
 layout: post
 title:  "Magic Stone"
 date:   2015-12-03
-tags: [druid, warlock, cantrip]
+tags: [druid, warlock, level0]
 ---
 
 **Transmutation cantrip**

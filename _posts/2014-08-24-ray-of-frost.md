@@ -2,7 +2,7 @@
 layout: post
 title:  "Ray of Frost"
 date:   2014-08-24
-tags: [sorcerer, wizard, cantrip]
+tags: [sorcerer, wizard, level0]
 ---
 
 **Evocation cantrip**

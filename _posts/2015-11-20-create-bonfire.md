@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Bonfire"
 date:   2015-11-20
-tags: [druid, sorcerer, warlock, wizard, cantrip]
+tags: [druid, sorcerer, warlock, wizard, level0]
 ---
 
 **Conjuration cantrip**

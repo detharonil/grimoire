@@ -2,7 +2,7 @@
 layout: post
 title:  "Thunderclap"
 date:   2015-08-31
-tags: [bard, druid, sorcerer, warlock, wizard, cantrip]
+tags: [bard, druid, sorcerer, warlock, wizard, level0]
 ---
 
 **Evocation cantrip**

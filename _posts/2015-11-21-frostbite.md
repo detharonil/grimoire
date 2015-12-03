@@ -2,7 +2,7 @@
 layout: post
 title:  "Frostbite"
 date:   2015-11-21
-tags: [druid, sorcerer, warlock, wizard, cantrip]
+tags: [druid, sorcerer, warlock, wizard, level0]
 ---
 
 **Evocation cantrip**

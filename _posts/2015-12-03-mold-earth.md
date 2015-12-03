@@ -2,7 +2,7 @@
 layout: post
 title:  "Mold Earth"
 date:   2015-12-03
-tags: [druid, sorcerer, wizard, cantrip]
+tags: [druid, sorcerer, wizard, level0]
 ---
 
 **Transmutation cantrip**

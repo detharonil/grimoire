@@ -2,7 +2,7 @@
 layout: post
 title:  "Dancing Lights"
 date:   2014-08-24
-tags: [bard, sorcerer, wizard, cantrip]
+tags: [bard, sorcerer, wizard, level0]
 ---
 
 **Evocation cantrip**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Blade Ward"
 date:   2015-05-12
-tags: [bard, sorcerer, warlock, wizard, cantrip]
+tags: [bard, sorcerer, warlock, wizard, level0]
 ---
 
 **Abjuration cantrip**
