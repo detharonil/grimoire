@@ -5,7 +5,7 @@ date:   2014-08-24
 tags: [sorcerer, wizard, level0]
 ---
 
-**Conjuration cantrip**  
+*Conjuration cantrip*  
 **Casting Time**: 1 action  
 **Range**: 60 feet  
 **Components**: V, S  
