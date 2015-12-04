@@ -10,9 +10,7 @@
 		<dl class="tag-list">
 			<dt>Spell tier:</dt>
 {% for level in site.data.levels %}
-			<dd>
-				<a href="#{{level.tag}}">{{level.name}}</a>
-			</dd>{% endfor %}
+			<dd><a href="#{{level.tag}}">{{level.name}}</a></dd>{% endfor %}
 		</dl>
 {% for level in site.data.levels %}
 		<a id="{{level.tag}}"></a>
