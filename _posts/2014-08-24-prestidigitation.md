@@ -5,15 +5,12 @@ date:   2014-08-24
 tags: [bard, sorcerer, warlock, wizard, level0]
 ---
 
-**Transmutation cantrip**
+_Transmutation cantrip_
 
-**Casting Time**: 1 action
-
-**Range**: 10 feet
-
-**Components**: V, S
-
-**Duration**: Up to 1 hour
+**Casting Time:** 1 action  
+**Range:** 10 feet  
+**Components:** V, S  
+**Duration:** Up to 1 hour
 
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 

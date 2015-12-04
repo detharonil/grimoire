@@ -5,15 +5,12 @@ date:   2014-08-24
 tags: [druid, level0]
 ---
 
-**Transmutation cantrip**
+_Transmutation cantrip_
 
-**Casting Time**: 1 action
-
-**Range**: 30 feet
-
-**Components**: V, S
-
-**Duration**: Instantaneous
+**Casting Time:** 1 action  
+**Range:** 30 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
 
 Whispering to the spirits of nature, you create one of the following effects within range:
 
