@@ -11,12 +11,9 @@ layout: default
 <footer class="post-footer">
 	<dl class="tag-list">
 		<dt>Tags:</dt>
-{% for tag in page.tags %}
-		<dd>
-{% if tag contains 'level' %}
-			<a href="{{site.baseurl}}/#{{tag}}">{{tag}}</a>{% else %}
-			<a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>{% endif %}
-		</dd>{% endfor %}
+{% for tag in page.tags %}{% if tag contains 'level' %}
+		<dd><a href="{{site.baseurl}}/#{{tag}}">{{tag}}</a></dd>{% else %}
+		<dd><a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a></dd>{% endif %}{% endfor %}
 	</dl>
 </footer>
 </div>

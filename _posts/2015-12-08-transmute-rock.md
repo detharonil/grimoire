@@ -9,7 +9,7 @@ _5th-level transmutation_
 
 **Casting Time:** 1 action  
 **Range:** 120 feet  
-**Components:** V, S, M (clay and water)
+**Components:** V, S, M (clay and water)  
 **Duration:** Instantaneous
 
 You choose an area of stone or mud that you can see that fits within a 40-foot cube and that is within range, and choose one of the following effects.  
