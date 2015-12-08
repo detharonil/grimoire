@@ -2,7 +2,7 @@
 layout: post
 title:  "Snilloc's Snowball Swarm"
 date:   2015-12-08
-tags: [, level2]
+tags: [sorcerer, wizard, level2]
 ---
 
 _2nd-level evocation_

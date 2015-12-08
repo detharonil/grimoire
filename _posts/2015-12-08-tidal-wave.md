@@ -2,7 +2,7 @@
 layout: post
 title:  "Tidal Wave"
 date:   2015-12-08
-tags: [, level3]
+tags: [druid, wizard, level3]
 ---
 
 _3rd-level conjuration_

@@ -2,7 +2,7 @@
 layout: post
 title:  "Transmute Rock"
 date:   2015-12-08
-tags: [, level5]
+tags: [druid, wizard, level5]
 ---
 
 _5th-level transmutation_
