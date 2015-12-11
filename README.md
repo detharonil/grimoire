@@ -25,4 +25,4 @@ Thanks to Saph for doing nearly all of the work.  I just got impatient.
 
 Cleric and wizard spells from the Starter Kit were seeded from [this Reddit post](http://www.reddit.com/r/DnD/comments/2a7wau/5e_cleric_and_wizard_spells_sorted_by_level/).
 
-Thanks to @sethxd for suggesting [Jets.js](http://nexts.github.io/Jets.js/), a CSS search engine that plays nicely with Jekyll.
+Thanks to [sethxd](https://github.com/sethxd) for suggesting [Jets.js](https://jets.js.org/), a CSS search engine that plays nicely with Jekyll.
