@@ -13,7 +13,7 @@ Spells can be found inside the `_posts/` directory. Each spell gets its own post
 
 If you'd like to help fill out the rest of the spells from the PHB, EEPC, or SCAG, for each new spell you:
 
-1. Make a new post inside `_posts/` for each new spell, and copy the formatting from the spell.template file
+1. Make a new post inside the `_posts/` directory, and copy the formatting from the `spell.template` file
 2. Submit a pull request for the spell(s) when you're finished
 
 ## Build Instructions
